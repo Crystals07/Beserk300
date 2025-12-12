@@ -64,11 +64,13 @@ public class PalindromicPartitioning {
 
     public static void main(String[] args) {
         // Sample test cases
+        String s0 = "abcbm";
         String s1 = "ababbbabbababa";
         String s2 = "aab";
         String s3 = "racecar";
         String s4 = "banana";
 
+        System.out.println("Minimum cuts for \"" + s0 + "\": " + palPartition(s0));
         System.out.println("Minimum cuts for \"" + s1 + "\": " + palPartition(s1));
         System.out.println("Minimum cuts for \"" + s2 + "\": " + palPartition(s2));
         System.out.println("Minimum cuts for \"" + s3 + "\": " + palPartition(s3));

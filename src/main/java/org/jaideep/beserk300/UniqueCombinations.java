@@ -1,7 +1,6 @@
-package org.jaideep.questions;
+package org.jaideep.beserk300;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class UniqueCombinations {

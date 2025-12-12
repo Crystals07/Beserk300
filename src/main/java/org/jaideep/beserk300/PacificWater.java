@@ -1,4 +1,4 @@
-package org.jaideep.questions;
+package org.jaideep.beserk300;
 
 import java.util.ArrayList;
 import java.util.List;
